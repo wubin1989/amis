@@ -1,6 +1,6 @@
 {
   "name": "@wubin1989/amis",
-  "version": "6.6.0",
+  "version": "6.6.0.1",
   "description": "一种MIS页面生成工具",
   "main": "lib/index.js",
   "module": "esm/index.js",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/baidu/amis.git"
+    "url": "https://github.com/wubin1989/amis.git"
   },
   "keywords": [
     "react",
