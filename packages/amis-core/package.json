@@ -1,5 +1,5 @@
 {
-  "name": "amis-core",
+  "name": "@wubin1989/amis-core",
   "version": "6.6.0",
   "description": "amis-core",
   "main": "lib/index.js",

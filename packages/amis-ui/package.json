@@ -1,5 +1,5 @@
 {
-  "name": "amis-ui",
+  "name": "@wubin1989/amis-ui",
   "main": "lib/index.js",
   "module": "esm/index.js",
   "types": "lib/index.d.ts",

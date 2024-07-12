@@ -1,5 +1,5 @@
 {
-  "name": "amis-theme-editor-helper",
+  "name": "@wubin1989/amis-theme-editor-helper",
   "version": "2.0.26",
   "description": "amis主题编辑器通用方法",
   "main": "lib/index.js",

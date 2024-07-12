@@ -1,5 +1,5 @@
 {
-  "name": "amis-formula",
+  "name": "@wubin1989/amis-formula",
   "version": "6.6.0",
   "description": "负责 amis 里面的表达式实现，内置公式，编辑器等",
   "main": "lib/index.js",

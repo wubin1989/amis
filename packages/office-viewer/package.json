@@ -1,5 +1,5 @@
 {
-  "name": "office-viewer",
+  "name": "@wubin1989/office-viewer",
   "version": "0.3.14",
   "description": "office 文档在线预览",
   "main": "lib/index.js",
