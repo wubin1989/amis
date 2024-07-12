@@ -1,6 +1,6 @@
 {
   "name": "@wubin1989/amis",
-  "version": "6.6.1",
+  "version": "6.6.2",
   "description": "一种MIS页面生成工具",
   "main": "lib/index.js",
   "module": "esm/index.js",
