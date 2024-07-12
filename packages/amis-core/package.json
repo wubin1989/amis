@@ -1,6 +1,6 @@
 {
   "name": "@wubin1989/amis-core",
-  "version": "6.6.0",
+  "version": "6.6.1",
   "description": "amis-core",
   "main": "lib/index.js",
   "module": "esm/index.js",
